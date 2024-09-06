@@ -10,7 +10,7 @@ environment.
 
 ## Setup
 
-1. Setup a development environment as describe in
+1. Setup a development environment as described in
    [developer quick start guide](../docs/devel-quick-start.md)
 
 1. Add yourself to the libvirt group (required for minikube kvm2 driver).
